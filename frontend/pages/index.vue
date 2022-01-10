@@ -76,7 +76,8 @@
 <script lang="ts">
 import Vue from 'vue'
 import cofog from '@/data/cofog_flatten.json'
-import data from '@/data/tsukuba_flatten.json'
+// import data from '@/data/tsukuba_flatten.json'
+import data from '@/data/tsukuba_lv4_flatten.json'
 import mapping from '@/data/mapping.json'
 import { Data, Cofog, Map } from '@/types/component-interfaces/data'
 import { dataStore } from '@/store'
